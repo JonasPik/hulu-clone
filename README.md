@@ -15,11 +15,11 @@ Tailwindcss - CSS framework
 Heroicons - Vector svg icons \
 REST API - Connecting to TMDB \
 Yarn - Nodej.js package manager \
-Flexbox & CSS Grid \
+Flexbox & CSS Grid
 
 ## Additional node packages
 
-tailwind-scrollbar-hide
+tailwind-scrollbar-hide \
 react-flip-move
 
 ## Deployment
